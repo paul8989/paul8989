@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Jolly
+- 👋 Hi, I’m Paul aka Lord Jake (LJ)
 - 👀 I’m interested in solving real world problems
 - 🌱 I’m currently learning Internet of Things , Microsoft Azure, React JS
 - 💞️ I’m looking to collaborate on IOT Projects using Cloud
